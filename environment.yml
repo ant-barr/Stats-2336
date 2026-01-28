@@ -1,0 +1,12 @@
+name: stats
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - scipy
+  - ipykernel
+  - jupyter
+  - pandas
+  - matplotlib
+  - numpy
+prefix: C:\Users\Barrs\anaconda3\envs\stats
