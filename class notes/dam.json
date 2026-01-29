@@ -1,0 +1,17 @@
+[
+  {
+    "name": "DamA",
+    "capacity_MW": 120,
+    "country": "BR"
+  },
+  {
+    "name": "DamB",
+    "capacity_MW": 300,
+    "country": "PE"
+  },
+  {
+    "name": "DamC",
+    "capacity_MW": 90,
+    "country": "CO"
+  }
+]
